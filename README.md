@@ -60,5 +60,5 @@ Link do Código https://portugol.dev/#share=5vrodgp
                                 senao
                                   escreva("Vai para a cozinha, pegue um sanduiche e coma!")
                                 
+        }
     }
-}
