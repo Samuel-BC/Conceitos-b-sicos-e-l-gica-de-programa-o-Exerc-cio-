@@ -13,15 +13,17 @@ O que é uma programação orientada a objetos ?
 Conteúdo do arquivo (Rotina de café.po) listado neste commit.
 Link do Código https://portugol.dev/#share=5vrodgp
 
-// Algorítimo que descreve uma rotina do café da manhã //
-
-programa
-{
-    funcao inicio()
-    {
+                        
+    // Algorítimo que descreve uma rotina do café da manhã //
+        
+    programa   
+    {    
+        funcao inicio()
+        {
+            
             escreva("Rotina do café da Manhã")
               cadeia resposta
-            
+              
             //ao acordar
             escreva("\nAcordou ?") 
               leia(resposta)
