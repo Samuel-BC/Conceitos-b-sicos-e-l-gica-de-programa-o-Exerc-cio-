@@ -2,10 +2,11 @@ Esse commit se trata de uma atividade sobre os temas de programação procedural
 
 
 O que é uma programação procedural ?
-<img src="![alt text](<PROGRAMAÇÃO PROCEDURAL.png>)">
+![PROGRAMAÇÃO PROCEDURAL](https://github.com/Cavliere/Conceitos-b-sicos-e-l-gica-de-programa-o-Exerc-cio-/assets/48744282/3fdda3d6-c170-4bdd-b62a-ed2f847bac45)
+
 
 O que é uma programação orientada a objetos ?
-<img src="![alt text](<PROGRAMAÇÃO ORIENTADA A OBJETOS.png>)">
+![PROGRAMAÇÃO ORIENTADA A OBJETOS](https://github.com/Cavliere/Conceitos-b-sicos-e-l-gica-de-programa-o-Exerc-cio-/assets/48744282/a0f3a8f0-a78f-4e78-989d-1f7608d88531)
 
 ------------------------------------------------------------------------
 
